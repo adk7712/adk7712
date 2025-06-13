@@ -13,7 +13,7 @@ I'm Aditya, a passionate, self-taught programmer. I revel in coding a lot due to
 
 ##
 ### <code><u>My Github Statistics</u></code>
-<img src = "https://github-readme-stats.vercel.app/api?username=SrNightmare09&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117&custom_title=Github%20Statistics&include_all_commits=true" height = "170px">
+<img src = "https://github-readme-stats.vercel.app/api?username=adk7712&show_icons=true&theme=gotham&bg_color=0D1117&border_color=0D1117&custom_title=Github%20Statistics&include_all_commits=true" height = "170px">
 
 <!--Languages and tools-->
 ##
@@ -38,6 +38,6 @@ I'm Aditya, a passionate, self-taught programmer. I revel in coding a lot due to
 <img src="./images/language-icons/vscode.png" height="40" style="vertical-align:down; margin:4px">
 <img src="./images/language-icons/vs.png" height="40" style="vertical-align:down; margin:4px">
 <br />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SrNightmare09&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adk7712&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
 <hr>
