@@ -40,4 +40,5 @@ I'm Aditya, a passionate, self-taught programmer. I revel in coding a lot due to
 <br />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adk7712&layout=compact&theme=gotham&text_color=777777&bg_color=0D1117&border_color=0D1117&langs_count=6" height = "199px">
 </p>
+
 <hr>
