@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="center">Hi, I'm Aditya! 👋</h1>
 <h3 align="center">A curious data analyst and machine learning engineer</h3>
 
 - 🔭 I’m currently working on [Lumi](https://github.com/adk7712/lumi)
@@ -36,35 +36,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  
-  <!-- Data Science & ML -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-
-  <!-- Backend & Infrastructure -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/seaborn-3776ab?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-003b57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-dc382d?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 <hr>
 
 <h3 align="left">Github Statistics</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adk7712&show_icons=true&locale=en&theme=gruvbox" alt="adk7712" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adk7712&show_icons=true&locale=en&theme=gruvbox" alt="adk7712" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adk7712&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="adk7712" />
+  
+</p>
 
 <hr>
 
