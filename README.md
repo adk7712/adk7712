@@ -6,6 +6,34 @@
 - 👯 I’m looking to collaborate on [ML Pairs Trading Pipeline](https://github.com/adk7712/ml-pairs-trading-pipeline)
 - 📫 How to reach me **aditya.girishkoli@gmail.com**
 
+<hr>
+
+<h3 align="left">My Projects</h3>
+
+<p align="center">
+  <!-- ML Pairs Trading -->
+  <a href="https://github.com/adk7712/ml-pairs-trading-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adk7712&repo=ml-pairs-trading-pipeline&theme=gruvbox" />
+  </a>
+  
+  <!-- Lumi -->
+  <a href="https://github.com/adk7712/lumi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adk7712&repo=lumi&theme=gruvbox" />
+  </a>
+  
+  <!-- Crypto Prediction -->
+  <a href="https://github.com/adk7712/crypto-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adk7712&repo=crypto-prediction&theme=gruvbox" />
+  </a>
+  
+  <!-- CerviNet -->
+  <a href="https://github.com/CerviNet-NTU/CerviNet-BioHackathon-NTU-2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerviNet-NTU&repo=CerviNet-BioHackathon-NTU-2025&theme=gruvbox" />
+  </a>
+</p>
+
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -33,6 +61,8 @@
 </p>
 
 <hr>
+
+<h3 align="left">Github Statistics</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adk7712&show_icons=true&locale=en&theme=gruvbox" alt="adk7712" /></p>
 
